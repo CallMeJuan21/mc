@@ -287,3 +287,5 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [04Jan2025 04:57:27.643] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [04Jan2025 04:57:28.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CallMeJuan lost connection: Timed out
 [04Jan2025 04:57:28.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CallMeJuan left the game
+[04Jan2025 05:00:07.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JUNINNX lost connection: Timed out
+[04Jan2025 05:00:07.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUNINNX left the game
