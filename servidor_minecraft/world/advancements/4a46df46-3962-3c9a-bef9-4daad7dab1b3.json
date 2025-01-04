@@ -1816,6 +1816,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 04:17:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-01-03 04:17:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2025-01-03 04:19:38 +0000"
@@ -1837,18 +1849,6 @@
   "iceandfire:recipes/tools/dragonbone_axe": {
     "criteria": {
       "has_item": "2025-01-03 04:19:38 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2025-01-03 04:17:20 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2025-01-03 04:17:22 +0000"
     },
     "done": true
   },
@@ -1888,9 +1888,9 @@
     },
     "done": true
   },
-  "artifacts:amateur_archaeologist": {
+  "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
-      "find_artifact": "2025-01-03 04:21:21 +0000"
+      "has_item": "2025-01-03 04:19:38 +0000"
     },
     "done": true
   },
@@ -1900,9 +1900,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_horn": {
+  "artifacts:amateur_archaeologist": {
     "criteria": {
-      "has_item": "2025-01-03 04:19:38 +0000"
+      "find_artifact": "2025-01-03 04:21:21 +0000"
     },
     "done": true
   },

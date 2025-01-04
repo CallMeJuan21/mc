@@ -237,3 +237,53 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [04Jan2025 03:39:00.214] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JUNINNX[/[::1]:37814] logged in with entity id 290 at (-1575.3791021603608, 119.0, -136.30000001192093)
 [04Jan2025 03:39:00.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUNINNX joined the game
 [04Jan2025 03:39:00.331] [Server thread/INFO] [Jade/]: Syncing config to JUNINNX (76df8f74-960a-3d60-ad9f-4b4d64c4369c)
+[04Jan2025 03:59:46.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seed: [4831979776950855549]
+[04Jan2025 04:00:18.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1589, y=119, z=-123} BlockPos{x=-1589, y=117, z=-123}
+[04Jan2025 04:24:04.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seed: [4831979776950855549]
+[04Jan2025 04:24:31.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JUNINNX has made the advancement [A Seedy Place]
+[04Jan2025 04:32:17.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seed: [4831979776950855549]
+[04Jan2025 04:51:34.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seed: [4831979776950855549]
+[04Jan2025 04:52:18.456] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1547, y=119, z=-62} BlockPos{x=-1547, y=117, z=-62}
+[04Jan2025 04:52:18.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1547, y=119, z=-62} BlockPos{x=-1547, y=117, z=-62}
+[04Jan2025 04:55:28.035] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CallMeJuan[/[::1]:42228] logged in with entity id 15843 at (28.92929005318197, 73.0, -1209.4555825655584)
+[04Jan2025 04:55:28.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CallMeJuan joined the game
+[04Jan2025 04:55:28.114] [Server thread/INFO] [Jade/]: Syncing config to CallMeJuan (4a46df46-3962-3c9a-bef9-4daad7dab1b3)
+[04Jan2025 04:56:10.146] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:56:15.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JUNINNX> perrita
+[04Jan2025 04:56:20.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CallMeJuan> bueno bueno
+[04Jan2025 04:56:23.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CallMeJuan> pero que tal
+[04Jan2025 04:56:37.042] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:56:38.740] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:56:40.142] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:56:40.842] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:56:44.241] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:56:45.642] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:56:46.343] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:56:47.042] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:56:50.442] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:56:51.845] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:56:52.553] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:56:53.241] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:56:56.643] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:56:58.042] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:56:58.745] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:56:59.441] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:57:02.843] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:57:04.241] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:57:04.962] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:57:05.644] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:57:09.042] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:57:10.443] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:57:11.141] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:57:11.841] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:57:15.242] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:57:16.644] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:57:17.342] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:57:18.041] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:57:21.442] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:57:22.842] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:57:23.544] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:57:24.241] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:57:27.643] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 04:57:28.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CallMeJuan lost connection: Timed out
+[04Jan2025 04:57:28.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CallMeJuan left the game
